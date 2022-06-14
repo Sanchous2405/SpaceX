@@ -225,6 +225,6 @@ body {
   border-radius: 6px;
 }
 .contact:hover {
-  background: rgba(255, 251, 251, 0);
-  transition-duration: 0.2s;
+  color: rgb(83, 81, 81);
+  transition-duration: 0.5s;
 }/*# sourceMappingURL=style.css.map */
