@@ -1,0 +1,29 @@
+.falcon {
+    width: 100%;
+    margin: 0% auto;
+    display: flex;
+    flex-direction: column;
+}
+.heavy {
+    margin: 0% auto;
+    padding-top: 122px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 75px;
+    color: white;
+}
+.powerful {
+    width: 268px;
+    margin: 0% auto;
+    padding-top: 26px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 140%;
+    text-align: center;
+    text-transform: lowercase;
+    color: white;
+}
