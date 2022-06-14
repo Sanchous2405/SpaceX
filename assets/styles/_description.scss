@@ -1,0 +1,79 @@
+.description {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+.part {
+     width: 490px;
+     display: flex;
+     flex-direction: column;
+     padding-left: 147px;
+}
+.title {
+    width: 177px;
+    padding-top: 492px;
+    color: white;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 140%;
+}
+.size {
+    display: flex;
+    flex-direction: row;
+    width: 455px;
+}
+.table {
+    padding-top: 45px;
+    padding-right: 130px;
+    display: flex;
+    flex-direction: column;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 179.69%;
+    color: #FFFFFF;
+    border: 1px solid #000000;
+}
+.number {
+    padding-top: 45px;
+  
+    display: flex;
+    flex-direction: column;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 179.69%;
+    color: #FFFFFF;
+    border: 1px solid #000000;
+}
+.performance {
+    padding-top: 218px;
+  
+}
+.heading {
+    width: 177px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 140%;
+    color: #FFFFFF;
+}
+.vision {
+    width: 490px;
+    padding-top: 45px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 29px;
+
+    color: #FFFFFF;
+}
+.rocket {
+    padding-left: 150px;
+}
