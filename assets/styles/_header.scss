@@ -26,5 +26,8 @@
 .sec{
     padding-right: 10px;
     color:#808080;
-    ;
+    &:hover{
+       color: rgb(255, 255, 255);
+        transition-duration: .5s;
+    }
 }

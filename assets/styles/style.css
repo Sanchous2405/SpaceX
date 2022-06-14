@@ -51,6 +51,10 @@ body {
   padding-right: 10px;
   color: #808080;
 }
+.sec:hover {
+  color: rgb(255, 255, 255);
+  transition-duration: 0.5s;
+}
 
 .falcon {
   width: 100%;
